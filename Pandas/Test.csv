@@ -1,9 +1,9 @@
-﻿Name,Age,Occupation
-Jesny,25,Analyst
-Lini,55,Homemaker
-Nikhil,26,Manager
-Jaison,60,Bussines
-Jesly,29,Analyst 
-Liji,57,Teacher
-Aavani,21,Student
-Akshay,24,FE Associate 
+﻿Name,Age,Occupation,Dob
+Jesny,25,Analyst,2000-03-11
+Lini,55,Homemaker,1970-01-07
+Nikhil,26,Manager,1999-09-21
+Jaison,56,Bussines,1969-01-26
+Jesly,29,Analyst ,1996-03-08
+Liji,57,Teacher,1968-01-01
+Aavani,21,Student,2004-02-27
+Akshay,24,FE Associate ,2001-05-06

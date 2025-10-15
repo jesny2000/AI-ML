@@ -1,0 +1,6 @@
+Batsman  Bolwer
+Rohit  Bumrah
+Virat   Siraj
+Rahul   Shami
+Dhoni  Ashwin
+Raina  Jadeja
